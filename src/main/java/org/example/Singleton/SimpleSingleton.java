@@ -1,5 +1,8 @@
 package org.example.Singleton;
 
+
+//Singleton ensure that class has only one instance and provide global points to access it.
+
 public class SimpleSingleton {
     private static SimpleSingleton instance = null;
 
