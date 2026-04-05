@@ -1,4 +1,6 @@
 package org.example.Singleton.AbstractFactory;
 
-public class MealFactory {
+ interface MealFactory {
+    Burger createBurger(String type);
+    GarlicBread createGarlicbread(String type);
 }
