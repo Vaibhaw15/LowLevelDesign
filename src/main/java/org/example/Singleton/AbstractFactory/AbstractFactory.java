@@ -1,4 +1,4 @@
 package org.example.Singleton.AbstractFactory;
 
-public class AbstactFactory {
+public class AbstractFactory {
 }
