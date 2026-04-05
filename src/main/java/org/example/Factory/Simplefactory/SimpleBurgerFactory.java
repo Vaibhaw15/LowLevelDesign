@@ -1,4 +1,4 @@
-package org.example.Singleton.Simplefactory;
+package org.example.Factory.Simplefactory;
 
 public class SimpleBurgerFactory {
     public static void main(String[] args){

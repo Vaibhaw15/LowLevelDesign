@@ -1,4 +1,4 @@
-package org.example.Singleton.Simplefactory;
+package org.example.Factory.Simplefactory;
 
 //Simple factory pattern is a creational design pattern that is use to create
 //object without exposing the object creation

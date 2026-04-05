@@ -1,4 +1,4 @@
-package org.example.Singleton.AbstractFactory;
+package org.example.Factory.AbstractFactory;
 
 public class BasicBurger implements Burger{
     @Override

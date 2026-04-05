@@ -1,4 +1,4 @@
-package org.example.Singleton.AbstractFactory;
+package org.example.Factory.AbstractFactory;
 
  interface MealFactory {
     Burger createBurger(String type);
